@@ -21,8 +21,6 @@ Format: CSV/Excel containing student scores, resource usage logs, and institutio
 - Correlated resource investment with academic outcomes
 - Suggested reallocation strategies for improved equity and efficiency
 
-## 🎥 Demo
-[Insert your LinkedIn or YouTube demo link here]
 
 ## 🛠️ Tools Used
 - Power BI Desktop  
